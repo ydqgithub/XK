@@ -24,14 +24,14 @@
 		public class Teacher extends member{
     public class Course extends teacher{
 	
-3.test类定义Scanner构造器，接收从控制台输入的信息。<br/>;
+3.test类定义Scanner构造器，接收从控制台输入的信息。<br/>
 		
 		Scanner scan = new Scanner(System.in);	
 		course c=new course();
 		
 ## 四、实验流程图
 ![image](https://github.com/ydqgithub/XK/blob/main/images/lct.jpg)
-## 五、核心代码
+## 五、核心代码、注释
 1.分别将各位老师的信息写在方法中例如以下代码中存储在teacher类中，course类可以通过super.方法名来调用。
 
 		public void showsJAVA(){
