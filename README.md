@@ -52,8 +52,7 @@
 		c.choseLesson(s1.name);
 		c.needtui(s1.name);
 ## 六、系统运行截图
-![image](https://github.com/G202liukaili/ChoseLesson/blob/main/image/2020-11-01_125900.jpg)
-![image](https://github.com/G202liukaili/ChoseLesson/blob/main/image/2020-11-01_130135.jpg)
+![image](https://github.com/ydqgithub/XK/blob/main/images/ydq.jpg)
 ## 七、编程感想
 * 不会使用object的.toString()方法未遍历出数组。<br/>
 * 需要使用构造器Scanner获取控制台信息以及无参的构造方法与带参的构造方法super的写法。<br/>
